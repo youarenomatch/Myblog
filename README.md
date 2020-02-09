@@ -1,10 +1,12 @@
-# Node.js + Vue.js 个人博客和管理后台
+# Node.js + Vue.js +Mongodb 个人博客和管理后台
 
-##效果图：
+## 效果图：
   ![Image text](https://github.com/youarenomatch/Myblog/blob/master/img-storage/WX20200209-193856.png)
   ![Image text]( https://github.com/youarenomatch/Myblog/blob/master/img-storage/bg1.png)
   ![Image text](https://github.com/youarenomatch/Myblog/blob/master/img-storage/bg2.png)
   ![Image text]( https://github.com/youarenomatch/Myblog/blob/master/img-storage/bg3.png)
+
+
 二、 管理后台
 1. 基于Element UI的后台管理基础界面搭建
 

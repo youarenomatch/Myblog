@@ -13,7 +13,7 @@
     "core-js": "^3.4.4",
     "element-ui": "^2.4.5",
     "less": "^3.10.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "save-dev": "0.0.1-security",
     "vue": "^2.6.10",
